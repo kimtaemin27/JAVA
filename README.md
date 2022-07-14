@@ -1,2 +1,2 @@
 # JAVA
-# study_self
+# self_study
