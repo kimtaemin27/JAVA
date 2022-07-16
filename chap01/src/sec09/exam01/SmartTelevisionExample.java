@@ -4,10 +4,10 @@ public class SmartTelevisionExample {
 
 	public static void main(String[] args) {
 		
-		SmartTelevision tv = new SmartTelevision();
+//		SmartTelevision tv = new SmartTelevision();
 		
-		RemoteControl rc = tv;
-		Searchable  searchable = tv;
+//		RemoteControl rc = tv;
+//		Searchable  searchable = tv;
 		
 	}
 
