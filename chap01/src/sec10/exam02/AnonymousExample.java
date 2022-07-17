@@ -7,7 +7,6 @@ public class AnonymousExample {
 		Anonymous anony = new Anonymous();
 		anony.method(0, 0);
 		
-		
 	}
 
 }
