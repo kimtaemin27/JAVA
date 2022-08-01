@@ -1,2 +1,2 @@
 # JAVA
-# self_study
+# self_study ( 혼공자 )
